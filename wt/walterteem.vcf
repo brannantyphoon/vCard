@@ -1,0 +1,17 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Walter Teem;;;;
+FN:Walter Teem
+ORG:Typhoon Texas Waterparks
+COMPANY:Typhoon Texas Waterparks
+TITLE:Director of Revenue Operations and Group Sales
+TEL;TYPE=work,pref:2055420842
+TEL;CELL;TYPE=mobile,VOICE:
+TEL;CELL;TYPE=work,VOICE:
+TEL;TYPE=HOME,VOICE:
+EMAIL;TYPE=work:walter.teem@typhoontexas.com
+URL:https://www.typhoontexas.com
+ADR;TYPE=HOME:
+KEY:OPENPGP4FPR:
+UID:SMART vCARD-720060
+END:VCARD

@@ -1,0 +1,17 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Corey Windhorst;;;;
+FN:Corey Windhorst
+ORG:Typhoon Texas Waterparks
+COMPANY:Typhoon Texas Waterparks
+TITLE:Food and Beverage Manager 
+TEL;TYPE=work,pref:7377877914
+TEL;CELL;TYPE=mobile,VOICE:
+TEL;CELL;TYPE=work,VOICE:
+TEL;TYPE=HOME,VOICE:
+EMAIL;TYPE=work:corey.windhorst@typhoontexas.com
+URL:https://www.typhoontexas.com
+ADR;TYPE=HOME:
+KEY:OPENPGP4FPR:
+UID:SMART vCARD-487113
+END:VCARD
