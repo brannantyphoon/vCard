@@ -2,16 +2,16 @@ BEGIN:VCARD
 VERSION:3.0
 N:Brannan Holland;;;;
 FN:Brannan Holland
-ORG:Typhoon Texas Waterpark
-COMPANY:Typhoon Texas Waterpark
+ORG:Typhoon Texas Waterparks
+COMPANY:Typhoon Texas Waterparks
 TITLE:Director, Systems Administration
 TEL;TYPE=work,pref:2547167204
 TEL;CELL;TYPE=mobile,VOICE:
 TEL;CELL;TYPE=work,VOICE:
 TEL;TYPE=HOME,VOICE:
 EMAIL;TYPE=work:brannan.holland@typhoontexas.com
-URL:typhoontexas.com
+URL:https://www.typhoontexas.com
 ADR;TYPE=HOME:
 KEY:OPENPGP4FPR:
-UID:SMART vCARD-192062
+UID:SMART vCARD-565568
 END:VCARD
