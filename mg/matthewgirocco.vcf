@@ -1,0 +1,17 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Matthew Girocco;;;;
+FN:Matthew Girocco
+ORG:Typhoon Texas Waterparks
+COMPANY:Typhoon Texas Waterparks
+TITLE:Director of Operations
+TEL;TYPE=work,pref:8326740301
+TEL;CELL;TYPE=mobile,VOICE:
+TEL;CELL;TYPE=work,VOICE:
+TEL;TYPE=HOME,VOICE:
+EMAIL;TYPE=work:Matthew.Girocco@typhoontexas.com
+URL:https://www.typhoontexas.com
+ADR;TYPE=HOME:
+KEY:OPENPGP4FPR:
+UID:SMART vCARD-436867
+END:VCARD
