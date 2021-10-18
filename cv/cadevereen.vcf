@@ -1,0 +1,17 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Cade Vereen;;;;
+FN:Cade Vereen
+ORG:Typhoon Texas Waterparks
+COMPANY:Typhoon Texas Waterparks
+TITLE:General Manager
+TEL;TYPE=work,pref:512-782-4031
+TEL;CELL;TYPE=mobile,VOICE:
+TEL;CELL;TYPE=work,VOICE:
+TEL;TYPE=HOME,VOICE:
+EMAIL;TYPE=work:cade.vereen@typhoontexas.com
+URL:https://www.typhoontexas.com
+ADR;TYPE=HOME:
+KEY:OPENPGP4FPR:
+UID:SMART vCARD-117559
+END:VCARD
