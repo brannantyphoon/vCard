@@ -1,0 +1,17 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Mark Immler;;;;
+FN:Mark Immler
+ORG:Typhoon Texas Waterparks
+COMPANY:Typhoon Texas Waterparks
+TITLE:Director, Information Technology
+TEL;TYPE=work,pref:8324080137
+TEL;CELL;TYPE=mobile,VOICE:
+TEL;CELL;TYPE=work,VOICE:
+TEL;TYPE=HOME,VOICE:
+EMAIL;TYPE=work:Mark.Immler@typhoontexas.com
+URL:https://www.typhoontexas.com
+ADR;TYPE=HOME:
+KEY:OPENPGP4FPR:
+UID:SMART vCARD-882670
+END:VCARD
